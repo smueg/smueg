@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="path/to/your/image_0.png" alt="Custom Hero Banner" width="100%" />
+  <img src="imgs/img-2.png" alt="Custom Hero Banner" width="100%" />
 </div>
 
 # Hi, I'm Stéffen Mügel 👋
