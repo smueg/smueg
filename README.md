@@ -4,7 +4,7 @@
   <img src="imgs/img-2.png" alt="Custom Hero Banner" width="100%" />
 </div>
 
-# Hi, I'm Stéffen Mügel 👋
+# Hi, I'm Stéffen Mügel
 ### Full-Stack Developer & DevOps Engineer
 
 I ship code built to survive contact with real users — and real audits.
