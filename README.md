@@ -107,12 +107,6 @@ Modernized a legacy perioperative safety platform into a web-based system, proto
 
 ---
 
-## 🌍 Languages
-
-German — Professional Working Proficiency
-
----
-
 <div align="center">
 
 📫 Let's connect — [LinkedIn](https://linkedin.com/in/smuegel) · [Email me](mailto:steffen@d1-box.slmail.me)
