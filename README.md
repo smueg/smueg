@@ -1,28 +1,10 @@
-<<<<<<< HEAD
-## Hi there 👋
-
-<!--
-**smueg/smueg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-=======
 <div align="center">
 
 <div align="center">
-  <img src="path/to/your/image_0.png" alt="Custom Hero Banner" width="100%" />
+  <img src="imgs/img-2.png" alt="Custom Banner" width="100%" />
 </div>
 
-# Hi, I'm Stéffen Mügel 👋
+# Hi, I'm Stéffen Mügel
 ### Full-Stack Developer & DevOps Engineer
 
 I ship code built to survive contact with real users — and real audits.
@@ -141,5 +123,3 @@ German — Professional Working Proficiency
 📫 Let's connect — [LinkedIn](https://linkedin.com/in/smuegel) · [Email me](mailto:muegelsj@d1-box.slmail.me)
 
 </div>
-
->>>>>>> daf445d (init commit)
