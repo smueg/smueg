@@ -1,10 +1,10 @@
 <div align="center">
 
 <div align="center">
-  <img src="imgs/img-2.png" alt="Custom Banner" width="100%" />
+  <img src="path/to/your/image_0.png" alt="Custom Hero Banner" width="100%" />
 </div>
 
-# Hi, I'm Stéffen Mügel
+# Hi, I'm Stéffen Mügel 👋
 ### Full-Stack Developer & DevOps Engineer
 
 I ship code built to survive contact with real users — and real audits.
@@ -15,11 +15,6 @@ I ship code built to survive contact with real users — and real audits.
 
 </div>
 
----
-<div align="center">
-  <img src="https://via.placeholder.com/1000x250/000000/FFFFFF?text=Welcome+to+My+GitHub" alt="Profile Banner" width="100%" />
-</div>
----
 ---
 
 ## 🚀 About Me
