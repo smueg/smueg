@@ -94,19 +94,6 @@ I'm a full-stack developer who's just as comfortable writing a Vue component as 
 
 ---
 
-## 💼 Where I've Put These to Work
-
-**Web Applications Developer II — Full-Stack & DevOps** · CACI International (CDC/NIOSH/DCAS)
-Full-stack builds in Laravel, Django, and C# on high-traffic government WordPress platforms; owned the DevOps pipeline end to end — Docker containers, Bash automation, and CI/CD through Jenkins and TFS. Integrated Claude/Gemini AI APIs and ran Agile delivery in Jira.
-
-**Web Developer/Administrator** · Center for Economic Analysis and Development, NKU
-Built and administered PHP/Laravel CMS platforms for 10,000+ monthly users, automated backups and security scans in Bash, and built Django/Python tools for economic data reporting.
-
-**Biomedical Informatics Intern** · Cincinnati Children's Hospital Medical Center
-Modernized a legacy perioperative safety platform into a web-based system, prototyping UI and building a reusable CSS framework.
-
----
-
 <div align="center">
 
 📫 Let's connect — [LinkedIn](https://linkedin.com/in/smuegel) · [Email me](mailto:steffen@d1-box.slmail.me)
