@@ -17,12 +17,6 @@ I ship code built to survive contact with real users — and real audits.
     <a href="docs/Steven_Muegel_FullStack_DevOps_Résumé.pdf" rel="noopener noreferrer" target="_blank"> <img src="https://img.shields.io/badge/View_Resume-PDF-blue?style=for-the-badge&logo=pagekit&logoColor=white" alt="PDF Résumé" />
     </a>
 </p>
-<p>
-    <a href="docs/Steven_Muegel_FullStack_DevOps_Résumé.pdf" rel="noopener noreferrer" target="_blank">
-    <img src="https://img.shields.io/badge/View_Resume-PDF-blue?style=for-the-badge&logo=pagekit&logoColor=white" alt="Résumé" />
-    </a>
-</p>
-
 </div>
 
 ---
