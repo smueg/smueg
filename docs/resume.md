@@ -6,9 +6,9 @@
 
 # Hi, I'm Stéffen Mügel
 ### Full-Stack Developer & DevOps Engineer
-<div style="margin:24px 0;">
+<div style="margin:32px 0;">
     <p>
-        <a href="./Steven_Muegel_FullStack_DevOps_Résumé.pdf" rel="noopener noreferrer" target="_blank"> <img src="https://img.shields.io/badge/View_Resume-PDF-blue?style=for-the-badge&logo=pagekit&logoColor=white" alt="PDF Résumé" />
+        <a href="./Steven_Muegel_FullStack_DevOps_Résumé.pdf" rel="noopener noreferrer" target="_blank"> <img style="padding:24px 10px;" src="https://img.shields.io/badge/View_Resume-PDF-blue?style=for-the-badge&logo=pagekit&logoColor=white" alt="PDF Résumé" />
         </a>
     </p>
 </div>
