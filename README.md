@@ -13,7 +13,7 @@ I ship code built to survive contact with real users — and real audits.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smuegel)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steffen@d1-box.slmail.me?subject=RE:%20Your%20GitHub%20Profile%20%5Bsmueg%5D)
 
-[![Resume](https://img.shields.io/badge/Resume-File--Text?style=mega&logo=pagekit&logoColor=white&color=007acc)](docs/resume.md)
+[![Resume](https://img.shields.io/badge/Resume-File--Text?style=for-the-badge&logo=pagekit&logoColor=white&color=007acc)](docs/resume.md)
 
 </div>
 
