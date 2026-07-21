@@ -14,7 +14,7 @@ I ship code built to survive contact with real users — and real audits.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steffen@d1-box.slmail.me)
 
 <p>
-    <a href="docs/Steven_Muegel_FullStack_DevOps_Résumé.pdf" rel="noopener noreferrer nofollow" target="_blank">
+    <a href="docs/Steven_Muegel_FullStack_DevOps_Résumé.pdf" rel="noopener noreferrer" target="_blank">
     <img src="https://img.shields.io/badge/View_Resume-PDF-blue?style=for-the-badge&logo=pagekit&logoColor=white" alt="Résumé" />
     </a>
 </p>
