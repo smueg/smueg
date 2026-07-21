@@ -11,7 +11,7 @@ I ship code built to survive contact with real users — and real audits.
 10 years building accessible, high-traffic web applications, with the DevOps range to deploy and maintain them.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smuegel)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steffen@d1-box.slmail.me)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steffen@d1-box.slmail.me?subject=RE:%20Your%20GitHub%20Profile%20%5Bsmueg%5D)
 
 <p>
     <a href="docs/Steven_Muegel_FullStack_DevOps_Résumé.pdf" rel="noopener noreferrer" target="_blank"> <img src="https://img.shields.io/badge/View_Resume-PDF-blue?style=for-the-badge&logo=pagekit&logoColor=white" alt="PDF Résumé" />
@@ -101,6 +101,6 @@ I'm a full-stack developer who's just as comfortable writing a Vue component as 
 
 <div align="center">
 
-📫 Let's connect — [LinkedIn](https://linkedin.com/in/smuegel) · [Email me](mailto:steffen@d1-box.slmail.me)
+📫 Let's connect — [LinkedIn](https://linkedin.com/in/smuegel) · [Email me](mailto:steffen@d1-box.slmail.me?subject=RE:%20Your%20GitHub%20Profile%20%5Bsmueg%5D)
 
 </div>
