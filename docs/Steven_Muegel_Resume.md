@@ -1,6 +1,6 @@
 # STEVEN MUEGEL
 
-Washington DC–Baltimore Area · +1 (614) 963-5651 · [Email](mailto:mailto:muegelsj@d1-box.slmail.me) · [LinkedIn](https://linkedin.com/in/smuegel) · [GitHub](https://github.com/smueg)
+Washington DC–Baltimore Area · [Email](mailto:mailto:muegelsj@d1-box.slmail.me) · [LinkedIn](https://linkedin.com/in/smuegel) · [GitHub](../README.md)
 
 <div>
 <p>
@@ -32,7 +32,8 @@ Full-stack developer who ships code built to survive contact with real users —
 ## Professional Experience
 
 ### Web Applications Developer II (Full-Stack & DevOps) — CACI International, Federal Contractor
-*National Institute for Occupational Safety and Health (CDC/NIOSH/DCAS) | 09/2015 – 02/2026*
+#### *National Institute for Occupational Safety and Health (CDC/NIOSH/DCAS)*
+*09/2015 – 02/2026*
 
 - Delivered full-stack upgrades to high-traffic government WordPress platforms, achieving full WCAG/Section 508 accessibility compliance
 - Led DevOps automation for deployment, data migration, and server maintenance using Bash/Shell scripting — cut manual overhead 15%
@@ -93,4 +94,4 @@ German: Professional Working Proficiency
 📞 [+1 (614) 963-5651](tel:+16149635651)
 📧 [muegelsj@d1-box.slmail.me](mailto:muegelsj@d1-box.slmail.me)
 🔗 [linkedin.com/in/smuegel](https://linkedin.com/in/smuegel)
-💻 [github.com/smueg](https://github.com/smueg)
+💻 [github.com/smueg](../README.md)
