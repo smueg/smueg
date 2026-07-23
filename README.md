@@ -13,7 +13,7 @@ I ship code built to survive contact with real users — and real audits.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smuegel)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steffen@d1-box.slmail.me?subject=RE:%20Your%20GitHub%20Profile%20%5Bsmueg%5D)
 
-[![View Resume](https://img.shields.io/badge/View-Resume-000000?style=for-the-badge&logo=markdown&logoColor=white)](./docs/Steven_Muegel_Resume.md)
+[![View Résumé](https://img.shields.io/badge/-View-Resume-000000?style=for-the-badge&logo=markdown&logoColor=white)](./docs/Steven_Muegel_Resume.md)
 
 </div>
 
@@ -102,6 +102,3 @@ I'm a full-stack developer who's just as comfortable writing a Vue component as 
 📫 Let's connect — [LinkedIn](https://linkedin.com/in/smuegel) · [Email me](mailto:steffen@d1-box.slmail.me?subject=RE:%20Your%20GitHub%20Profile%20%5Bsmueg%5D)
 
 </div>
-
-
-[def]: ./docs/Steven_Muegel_Resume.md
