@@ -1,6 +1,13 @@
 # STEVEN MUEGEL
 
-Washington DC–Baltimore Area · +1 (614) 963-5651 · [muegelsj@d1-box.slmail.me](mailto:muegelsj@d1-box.slmail.me) · [LinkedIn](https://linkedin.com/in/smuegel) · [GitHub](https://github.com/smueg)
+Washington DC–Baltimore Area · +1 (614) 963-5651 · [Email](mailto:mailto:muegelsj@d1-box.slmail.me) · [LinkedIn](https://linkedin.com/in/smuegel) · [GitHub](https://github.com/smueg)
+
+<div>
+<p>
+    <a href="./Steven_Muegel_FullStack_DevOps_Résumé.pdf" rel="noopener noreferrer" target="_blank"> <img src="https://img.shields.io/badge/View_Resume-PDF-blue?style=for-the-badge&logo=pagekit&logoColor=white" alt="PDF Résumé" />
+    </a>
+</p>
+</div>
 
 ---
 
@@ -83,7 +90,7 @@ German: Professional Working Proficiency
 
 ## Contact
 
-📞 +1 (614) 963-5651
+📞 [+1 (614) 963-5651](tel:+16149635651)
 📧 [muegelsj@d1-box.slmail.me](mailto:muegelsj@d1-box.slmail.me)
 🔗 [linkedin.com/in/smuegel](https://linkedin.com/in/smuegel)
 💻 [github.com/smueg](https://github.com/smueg)
