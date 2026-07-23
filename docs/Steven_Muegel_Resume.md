@@ -33,6 +33,7 @@ Full-stack developer who ships code built to survive contact with real users —
 
 ### Web Applications Developer II (Full-Stack & DevOps) — CACI International, Federal Contractor
 *National Institute for Occupational Safety and Health (CDC/NIOSH/DCAS)*
+
 *09/2015 – 02/2026*
 
 - Delivered full-stack upgrades to high-traffic government WordPress platforms, achieving full WCAG/Section 508 accessibility compliance
