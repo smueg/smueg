@@ -14,7 +14,7 @@ I ship code built to survive contact with real users — and real audits.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steffen@d1-box.slmail.me?subject=RE:%20Your%20GitHub%20Profile%20%5Bsmueg%5D)
 
 
-[![View Resume.md](https://img.shields.io/badge/Resume-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](./docs/Steven_Muegel_Resume.md)
+[![View Markdown Resume](https://img.shields.io/badge/View_Resume-083344?style=for-the-badge&logo=markdown&logoColor=white)](./docs/Steven_Muegel_Resume.md)
 
 </div>
 
