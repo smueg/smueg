@@ -1,6 +1,6 @@
 # STEVEN MUEGEL
 
-Washington DC–Baltimore Area · [Email](mailto:muegelsj@d1-box.slmail.me?subject=RE:%20Your%20Résumé%20on%20GitHub%20%5Bsmueg%5D) · [LinkedIn](https://linkedin.com/in/smuegel) · [GitHub](https://github.com/smueg)
+Washington DC–Baltimore Area · [Email](mailto:Steven%20Muegel<muegelsj@d1-box.slmail.me?subject=RE:%20Your%20Résumé%20on%20GitHub%20%5Bsmueg%5D>) · [LinkedIn](https://linkedin.com/in/smuegel) · [GitHub](https://github.com/smueg)
 
 <div>
 <p>
@@ -31,8 +31,7 @@ Full-stack developer who ships code built to survive contact with real users —
 
 ## Professional Experience
 
-### Web Applications Developer II (Full-Stack & DevOps) — CACI International, Federal Contractor
-#### *National Institute for Occupational Safety and Health (CDC/NIOSH/DCAS)*
+### Web Applications Developer II (Full-Stack & DevOps) — CACI International, Federal Contractor *National Institute for Occupational Safety and Health (CDC/NIOSH/DCAS)*
 *09/2015 – 02/2026*
 
 - Delivered full-stack upgrades to high-traffic government WordPress platforms, achieving full WCAG/Section 508 accessibility compliance
@@ -91,6 +90,6 @@ German: Professional Working Proficiency
 
 ## Contact
 
-📧 [muegelsj@d1-box.slmail.me](mailto:muegelsj@d1-box.slmail.me?subject=RE:%20Your%20Résumé%20on%20GitHub%20%5Bsmueg%5D)
-🔗 [linkedin.com/in/smuegel](https://linkedin.com/in/smuegel)
-💻 [github.com/smueg](https://github.com/smueg)
+- 📧 [muegelsj@d1-box.slmail.me](mailto:Steven%20Muegel<muegelsj@d1-box.slmail.me?subject=RE:%20Your%20Résumé%20on%20GitHub%20%5Bsmueg%5D>)
+- 🔗 [linkedin.com/in/smuegel](https://linkedin.com/in/smuegel)
+- 💻 [github.com/smueg](https://github.com/smueg)
