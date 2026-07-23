@@ -15,9 +15,7 @@ I ship code built to survive contact with real users — and real audits.
 
 <div>
     <p>
-        <a href="./docs/Steven_Muegel_Resume.md">
-            <img src="https://img.shields.io/badge/📄_View_My_Resume-orange?sstyle=plastic&logoColor=white" alt="View Resume" />
-        </a>
+        <[![View Resume](https://img.shields.io/badge/📄_VIEW_MY_RESUME-2ea44f?style=for-the-badge)](./docs/Steven_Muegel_Resume.md)
     </p>
 </div>
 
