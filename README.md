@@ -15,7 +15,7 @@ I ship code built to survive contact with real users — and real audits.
 
 <div>
     <p>
-        [![View Resume](https://img.shields.io/badge/View_Resume-2563EB?style=for-the-badge&logo=read-the-docs&logoColor=white)](./docs/Steven_Muegel_Resume.md)
+        [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=github&logoColor=white)](./docs/Steven_Muegel_Resume.md)
     </p>
 </div>
 
