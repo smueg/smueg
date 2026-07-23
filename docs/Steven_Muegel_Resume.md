@@ -71,9 +71,9 @@ _09/2011 – 12/2011_
 - Gained expertise in web development, software engineering, and database management
 - Completed hands-on projects that strengthened problem-solving and technical skills, including graduate-level coursework as an undergraduate
 
-**Study Abroad Program** — Ludwig Maximilian University of Munich, Germany
+**Study Abroad Program** — [Ludwig Maximilian University of Munich](https://www.lmu.de/en/), Germany
 
-- Completed a Study Abroad Program at [Ludwig Maximilian University of Munich](https://www.lmu.de/en/)
+- Completed a Study Abroad Program at Ludwig Maximilian University of Munich
 - Focused on German language, culture, international economics, and cross-cultural business communication
 - Strengthened global perspective and foreign language proficiency
 
