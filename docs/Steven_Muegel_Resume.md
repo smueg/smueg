@@ -62,7 +62,7 @@ Full-stack developer who ships code built to survive contact with real users —
 
 ## Education
 
-**Bachelor of Science in Computer Information Technology** — Northern Kentucky University, <a href="https://www.nku.edu/informatics/" rel="noopener noreferrer" target="_blank">College of Informatics</a>
+**Bachelor of Science in Computer Information Technology** — Northern Kentucky University, [College of Informatics](https://www.nku.edu/informatics/)
 - Earned a Bachelor of Science in Computer Information Technology from Northern Kentucky University
 - Gained expertise in web development, software engineering, and database management
 - Completed hands-on projects that strengthened problem-solving and technical skills, including graduate-level coursework as an undergraduate
