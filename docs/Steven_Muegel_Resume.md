@@ -19,22 +19,23 @@ Full-stack developer who ships code built to survive contact with real users —
 
 ## Technical Skills
 
-| Category | Skills |
-|---|---|
-| **Languages** | JavaScript (ES6+), TypeScript, Python, PHP, Ruby, C#, Bash/Shell Scripting, HTML5, CSS3, SQL |
+| Category                   | Skills                                                                                               |
+| -------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Languages**              | JavaScript (ES6+), TypeScript, Python, PHP, Ruby, C#, Bash/Shell Scripting, HTML5, CSS3, SQL         |
 | **Frameworks & Libraries** | Node.js, Vue.js, Angular, Django, Laravel, Ruby on Rails, ASP.NET, Entity Framework (ORM), WordPress |
-| **APIs & Integration** | REST APIs, GraphQL, LLM/AI API Integration (Claude, Gemini) |
-| **Cloud & DevOps** | AWS, Azure, Docker, Git, Jenkins, TFS, Jira, CI/CD Pipelines, Linux Administration, Shell Automation |
-| **Security & Compliance** | OWASP Top 10, NIST Cybersecurity Framework, WCAG 2.1 / Section 508 |
+| **APIs & Integration**     | REST APIs, GraphQL, LLM/AI API Integration (Claude, Gemini)                                          |
+| **Cloud & DevOps**         | AWS, Azure, Docker, Git, Jenkins, TFS, Jira, CI/CD Pipelines, Linux Administration, Shell Automation |
+| **Security & Compliance**  | OWASP Top 10, NIST Cybersecurity Framework, WCAG 2.1 / Section 508                                   |
 
 ---
 
 ## Professional Experience
 
 ### Web Applications Developer II (Full-Stack & DevOps) — [CACI International](https://www.caci.com/), Federal Contractor
-*National Institute for Occupational Safety and Health (CDC/NIOSH/DCAS)*
 
-*09/2015 – 02/2026*
+_National Institute for Occupational Safety and Health (CDC/NIOSH/DCAS)_
+
+_09/2015 – 02/2026_
 
 - Delivered full-stack upgrades to high-traffic government WordPress platforms, achieving full WCAG/Section 508 accessibility compliance
 - Led DevOps automation for deployment, data migration, and server maintenance using Bash/Shell scripting — cut manual overhead 15%
@@ -45,7 +46,8 @@ Full-stack developer who ships code built to survive contact with real users —
 - Managed Agile sprints and backlogs in Jira, driving project tracking, analytics, and reporting across full-stack development teams
 
 ### Web Developer/Administrator — [Center for Economic Analysis and Development](https://www.nku.edu/cob/centers/cead/), Northern Kentucky University
-*05/2012 – 09/2015*
+
+_05/2012 – 09/2015_
 
 - Built and administered PHP/Laravel CMS sites supporting 10,000+ monthly active users
 - Automated backups and security scans with custom Bash scripts
@@ -53,7 +55,8 @@ Full-stack developer who ships code built to survive contact with real users —
 - Redesigned key pages mobile-first — boosted user retention 20%
 
 ### Biomedical Informatics Intern (Perioperative Surgical Safety) — [Cincinnati Children's Hospital Medical Center](https://www.cincinnatichildrens.org/)
-*09/2011 – 12/2011*
+
+_09/2011 – 12/2011_
 
 - Replaced a legacy surgical safety system with a new web-based platform — increased data accessibility 20%
 - Prototyped UI and built a reusable CSS framework for faster modular updates
@@ -63,21 +66,25 @@ Full-stack developer who ships code built to survive contact with real users —
 ## Education
 
 **Bachelor of Science in Computer Information Technology** — Northern Kentucky University, [College of Informatics](https://www.nku.edu/informatics/)
+
 - Earned a Bachelor of Science in Computer Information Technology from Northern Kentucky University
 - Gained expertise in web development, software engineering, and database management
 - Completed hands-on projects that strengthened problem-solving and technical skills, including graduate-level coursework as an undergraduate
 
-**Study Abroad Program** — Ludwig Maximilian University of Munich
+**Study Abroad Program** — Ludwig Maximilian University of Munich, Germany
+
 - Completed a Study Abroad Program at [Ludwig Maximilian University of Munich](https://www.lmu.de/en/)
 - Focused on German language, culture, international economics, and cross-cultural business communication
 - Strengthened global perspective and foreign language proficiency
 
 **Bachelor of Arts in International Studies** — Northern Kentucky University, [College of Arts & Sciences, Department of Political Science](https://www.nku.edu/artsci/departments/pscjol/)
+
 - Earned a Bachelor of Arts in International Studies from Northern Kentucky University
 - Gained expertise in international affairs, economics, and cross-cultural communication
 - Achieved mastery in a foreign language to strengthen global perspective and engagement
 
 **Percussion Studies Program** — University of Cincinnati, [College-Conservatory of Music (CCM)](https://www.ccm.uc.edu/)
+
 - Refined percussion techniques through intensive conservatory training and peer collaboration
 - Specialized in orchestral, chamber, and contemporary music, demonstrating versatility and adaptability
 - Built a strong foundation in musicology and music theory, supporting both performance and pedagogy
