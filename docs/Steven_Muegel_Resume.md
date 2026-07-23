@@ -1,6 +1,6 @@
 # STEVEN MUEGEL
 
-Washington DC–Baltimore Area · [Email](mailto:mailto:muegelsj@d1-box.slmail.me) · [LinkedIn](https://linkedin.com/in/smuegel) · [GitHub](../README.md)
+Washington DC–Baltimore Area · [Email](mailto:muegelsj@d1-box.slmail.me?subject=RE:%20Your%20Résumé%20on%20GitHub%20%5Bsmueg%5D) · [LinkedIn](https://linkedin.com/in/smuegel) · [GitHub](../README.md)
 
 <div>
 <p>
@@ -91,7 +91,6 @@ German: Professional Working Proficiency
 
 ## Contact
 
-📞 [+1 (614) 963-5651](tel:+16149635651)
-📧 [muegelsj@d1-box.slmail.me](mailto:muegelsj@d1-box.slmail.me)
+📧 [muegelsj@d1-box.slmail.me](mailto:muegelsj@d1-box.slmail.me?subject=RE:%20Your%20Résumé%20on%20GitHub%20%5Bsmueg%5D)
 🔗 [linkedin.com/in/smuegel](https://linkedin.com/in/smuegel)
 💻 [github.com/smueg](../README.md)
