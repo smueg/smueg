@@ -14,10 +14,9 @@ I ship code built to survive contact with real users — and real audits.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steffen@d1-box.slmail.me?subject=RE:%20Your%20GitHub%20Profile%20%5Bsmueg%5D)
 
 <div>
-<p>
-    <a href="docs/Steven_Muegel_Resume.md" rel="noopener noreferrer" target="_blank"> <img src="https://img.shields.io/badge/View_Resume-PDF-blue?style=for-the-badge&logo=pagekit&logoColor=white" alt="PDF Résumé" />
-    </a>
-</p>
+    <p>
+        [![View Resume](https://img.shields.io/badge/View_Resume-📄-orange?style=for-the-badge)](./docs/Steven_Muegel_Resume.md)
+    </p>
 </div>
 
 </div>
