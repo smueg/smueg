@@ -1,6 +1,6 @@
 # STEVEN MUEGEL
 
-Washington DC–Baltimore Area · [Email](mailto:Steven%20Muegel<muegelsj@d1-box.slmail.me>?subject=RE:%20Your%20Résumé%20on%20GitHub%20%5Bsmueg%5D) · [LinkedIn](https://linkedin.com/in/smuegel) · [GitHub](../../smueg/)
+Washington DC–Baltimore Area · [Email](mailto:Steven%20Muegel<muegelsj@d1-box.slmail.me>?subject=RE:%20Your%20Résumé%20on%20GitHub%20%5Bsmueg%5D) · [LinkedIn](https://linkedin.com/in/smuegel) · [GitHub](../../smueg/README.md)
 
 <div>
 <p>
