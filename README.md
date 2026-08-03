@@ -12,7 +12,7 @@ I ship code built to survive contact with real users — and real audits.
 10 years building accessible, high-traffic web applications, with the DevOps range to deploy and maintain them.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smuegel)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Steven%20Muegel<smuegelsj@d1-box.slmail.me>?subject=RE:%20Your%20GitHub%20Profile%20%5Bsmueg%5D)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Steven%20Muegel<muegelsj@d1-box.slmail.me>?subject=RE:%20Your%20GitHub%20Profile%20%5Bsmueg%5D)
 
 [![View Résumé](https://img.shields.io/badge/View-Resume-000000?style=for-the-badge&logo=markdown&logoColor=white)](./docs/Steven_Muegel_Resume.md)
 
