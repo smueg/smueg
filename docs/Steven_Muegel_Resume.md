@@ -42,7 +42,7 @@ _09/2015 – 02/2026_
 - Built full-stack features spanning Laravel PHP, Django Python, and C# — grew user engagement 25%
 - Engineered REST/GraphQL API integrations with SQL Server to connect front-end and backend systems in real time
 - Extended platform capabilities by integrating Claude and Gemini AI APIs into agency portals — improved search relevance and content classification
-- Owned the DevOps pipeline: containerized deployments with Docker, automated releases with Bash, and orchestrated CI/CD through Jenkins and TFS for consistent Git-based delivery
+- Owned the DevOps pipeline: containerized deployments with Docker, automated releases with Bash, and orchestrated CI/CD through Jenkins and Microsoft Team Foundation Server (TFS & Azure DevOps) for consistent Git-based delivery
 - Managed Agile sprints and backlogs in Jira, driving project tracking, analytics, and reporting across full-stack development teams
 
 ### Web Developer/Administrator — [Center for Economic Analysis and Development](https://www.nku.edu/cob/centers/cead/), Northern Kentucky University
