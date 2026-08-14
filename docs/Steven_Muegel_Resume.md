@@ -32,6 +32,8 @@ Full-Stack Developer & DevOps Engineer with 10 years building and deploying acce
 
 ### Web Applications Developer II (Full-Stack & DevOps) — [CACI International](https://www.caci.com), Federal Contractor
 
+_(Remote)_
+
 _National Institute for Occupational Safety and Health (CDC/NIOSH/DCAS)_
 _09/2015 – 02/2026_
 
@@ -46,6 +48,8 @@ _09/2015 – 02/2026_
 
 ### Web Developer/Administrator — [Center for Economic Analysis and Development](https://www.nku.edu/cob/centers/cead), Northern Kentucky University
 
+_(Highland Heights, KY [Cincinnati Metro-Area])_
+
 _05/2012 – 09/2015_
 
 - Built and administered PHP/Laravel CMS sites supporting 10,000+ monthly active users
@@ -54,6 +58,8 @@ _05/2012 – 09/2015_
 - Redesigned key pages mobile-first — boosted user retention 20%
 
 ### Biomedical Informatics Intern (Perioperative Surgical Safety) — Part-Time — [Cincinnati Children's Hospital Medical Center](https://www.cincinnatichildrens.org)
+
+_(Cincinnati, OH)_
 
 _09/2011 – 12/2011 · ~30 hrs/week alongside final-semester coursework_
 
@@ -79,11 +85,15 @@ _Independent, self-directed work outside of paid employment — included to show
 
 **Bachelor of Science in Computer Information Technology** — Northern Kentucky University, [College of Informatics](https://www.nku.edu/informatics)
 
+_(Highland Heights, KY [Cincinnati Metro-Area])_
+
 - Earned a Bachelor of Science in Computer Information Technology from Northern Kentucky University
 - Gained expertise in web development, software engineering, and database management
 - Completed hands-on projects that strengthened problem-solving and technical skills, including graduate-level coursework as an undergraduate
 
 **Study Abroad Program** — [Ludwig Maximilian University of Munich](https://www.lmu.de/en/), Germany
+
+_(Munich, Bavaria, Germany)_
 
 - Completed a Study Abroad Program at Ludwig Maximilian University of Munich
 - Focused on German language, culture, international economics, and cross-cultural business communication
@@ -91,11 +101,15 @@ _Independent, self-directed work outside of paid employment — included to show
 
 **Bachelor of Arts in International Studies** — Northern Kentucky University, [College of Arts & Sciences](https://www.nku.edu/artsci/departments/pscjol)
 
+_(Highland Heights, KY [Cincinnati Metro-Area])_
+
 - Earned a Bachelor of Arts in International Studies from Northern Kentucky University
 - Gained expertise in international affairs, economics, and cross-cultural communication
 - Achieved mastery in a foreign language to strengthen global perspective and engagement
 
 **Percussion Studies Program** — University of Cincinnati, [College-Conservatory of Music (CCM)](https://www.ccm.uc.edu)
+
+_(Cincinnati, OH)_
 
 - Refined percussion techniques through intensive conservatory training and peer collaboration
 - Specialized in orchestral, chamber, and contemporary music, demonstrating versatility and adaptability
