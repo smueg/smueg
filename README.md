@@ -1,8 +1,10 @@
 [![Custom Banner](https://github.com/smueg/smueg/raw/main/imgs/img-2.png)](https://github.com/smueg/smueg/blob/main/imgs/img-2.png)
 
+<div align="center">
+
 # Hi, I'm Steven Muegel
 
-### Full-Stack Developer & DevOps Engineer
+## **Full-Stack Developer & DevOps Engineer**
 
 I ship code built to survive contact with real users — and real audits.
 10 years building accessible, high-traffic web applications, with the DevOps range to deploy and maintain them.
@@ -10,6 +12,8 @@ I ship code built to survive contact with real users — and real audits.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smuegel) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muegels@protonmail.com)
 
 [![View Résumé](https://img.shields.io/badge/View-Résumé-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/smueg/smueg/blob/main/docs/Steven_Muegel_Resume.md)
+
+</div>
 
 ---
 
@@ -52,7 +56,7 @@ I'm a full-stack developer who's just as comfortable writing a Vue component as 
 
 ## 🧪 Personal Projects
 
-*Independent, self-directed work outside of paid employment.*
+_Independent, self-directed work outside of paid employment._
 
 - 🤖 **AI-Assisted Development Prototype** — Personal search/content-classification prototype using the Claude and Gemini APIs via Claude Code CLI
 - ⚛️ **Modern Front-End Exploration** — React and Next.js experimentation
