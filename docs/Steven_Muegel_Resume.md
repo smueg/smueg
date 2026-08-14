@@ -48,7 +48,7 @@ _National Institute for Occupational Safety and Health (CDC/NIOSH/DCAS)_
 
 ### Web Developer/Administrator — [Center for Economic Analysis and Development](https://www.nku.edu/cob/centers/cead), Northern Kentucky University
 
-Highland Heights, KY [Cincinnati Metro-Area]
+Highland Heights, KY (Cincinnati Metro-Area)
 
 _05/2012 – 09/2015_
 
@@ -85,7 +85,7 @@ _Independent, self-directed work outside of paid employment — included to show
 
 **Bachelor of Science in Computer Information Technology** — Northern Kentucky University, [College of Informatics](https://www.nku.edu/informatics)
 
-Highland Heights, KY [Cincinnati Metro-Area]
+Highland Heights, KY (Cincinnati Metro-Area)
 
 - Earned a Bachelor of Science in Computer Information Technology from Northern Kentucky University
 - Gained expertise in web development, software engineering, and database management
@@ -101,7 +101,7 @@ Munich, Bavaria, Germany
 
 **Bachelor of Arts in International Studies** — Northern Kentucky University, [College of Arts & Sciences](https://www.nku.edu/artsci/departments/pscjol)
 
-Highland Heights, KY [Cincinnati Metro-Area]
+Highland Heights, KY (Cincinnati Metro-Area)
 
 - Earned a Bachelor of Arts in International Studies from Northern Kentucky University
 - Gained expertise in international affairs, economics, and cross-cultural communication
