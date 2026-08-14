@@ -4,8 +4,6 @@ Washington DC–Baltimore Area · [Email](mailto:muegels@protonmail.com) · [Lin
 
 ### Full-Stack Developer & DevOps Engineer
 
-<br>
-
 [![PDF Résumé](https://img.shields.io/badge/View_Résumé-PDF-FA0F00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTE0IDJINmMtMS4xIDAtMS45OS45LTEuOTkgMkw0IDIwYzAgMS4xLjg5IDIgMS45OSAySDE4YzEuMSAwIDItLjkgMi0yVjhsLTYtNnptMiAxNkg4di0yaDh2MnptMC00SDh2LTJoOHYyem0tMy01VjMuNUwxOC41IDlIMTN6Ii8+PC9zdmc+&logoColor=white)](https://github.com/smueg/smueg/blob/main/docs/Steven_Muegel_FullStack_DevOps_Résumé.pdf)
 
 ---
@@ -30,12 +28,9 @@ Full-Stack Developer & DevOps Engineer with 10 years building and deploying acce
 
 ## Professional Experience
 
-### Web Applications Developer II (Full-Stack & DevOps) — [CACI International](https://www.caci.com), Federal Contractor
+### Web Applications Developer II (Full-Stack & DevOps) — [CACI International](https://www.caci.com/), Federal Contractor
 
-Remote
-
-_09/2015 – 02/2026_
-_National Institute for Occupational Safety and Health (CDC/NIOSH/DCAS)_
+_09/2015 – 02/2026 · National Institute for Occupational Safety and Health (CDC/NIOSH/DCAS) · Remote_
 
 - Delivered full-stack upgrades to high-traffic government WordPress platforms, achieving full WCAG/Section 508 accessibility compliance while maintaining platform security through Fortify code scans and remediating flagged vulnerabilities
 - Automated deployment, data migration, and server maintenance using Bash/Shell scripting and Ruby batch jobs — cut manual overhead 15% (an estimated 3–6 hours weekly)
@@ -46,22 +41,18 @@ _National Institute for Occupational Safety and Health (CDC/NIOSH/DCAS)_
 - Coordinated Agile sprints and backlogs in Jira, driving project tracking, analytics, and reporting across full-stack development teams
 - Mentored team members transitioning from legacy workflows on modern CI/CD practices and cross-platform scripting (Bash/PowerShell), advocating for dependency injection over siloed local development
 
-### Web Developer/Administrator — [Center for Economic Analysis and Development](https://www.nku.edu/cob/centers/cead), Northern Kentucky University
+### Web Developer/Administrator — [Center for Economic Analysis and Development](https://www.nku.edu/cob/centers/cead/), Northern Kentucky University
 
-Highland Heights, KY (Cincinnati Metro-area)
-
-_05/2012 – 09/2015_
+_05/2012 – 09/2015 · Highland Heights, KY (Cincinnati-Metro)_
 
 - Built and administered PHP/Laravel CMS sites supporting 10,000+ monthly active users
 - Automated backups and security scans with custom Bash scripts
 - Built Django/Python analytical tools that improved reporting for economic research
 - Redesigned key pages mobile-first — boosted user retention 20%
 
-### Biomedical Informatics Intern (Perioperative Surgical Safety) — Part-Time — [Cincinnati Children's Hospital Medical Center](https://www.cincinnatichildrens.org)
+### Biomedical Informatics Intern (Perioperative Surgical Safety) — Part-Time — [Cincinnati Children's Hospital Medical Center](https://www.cincinnatichildrens.org/)
 
-Cincinnati, OH
-
-_09/2011 – 12/2011 · ~30 hrs/week alongside final-semester coursework_
+_09/2011 – 12/2011 · Cincinnati, Ohio · ~30 hrs/week alongside final-semester coursework_
 
 - Replaced a legacy surgical safety system with a new web-based platform — increased data accessibility 20%
 - Prototyped UI and built a reusable CSS framework for faster modular updates
@@ -83,9 +74,9 @@ _Independent, self-directed work outside of paid employment — included to show
 
 ## Education
 
-**Bachelor of Science in Computer Information Technology** — Northern Kentucky University, [College of Informatics](https://www.nku.edu/informatics)
+**Bachelor of Science in Computer Information Technology** — Northern Kentucky University, [College of Informatics](https://www.nku.edu/informatics/)
 
-Highland Heights, KY (Cincinnati Metro-area)
+_Highland Heights, KY (Cincinnati-Metro)_
 
 - Earned a Bachelor of Science in Computer Information Technology from Northern Kentucky University
 - Gained expertise in web development, software engineering, and database management
@@ -93,23 +84,23 @@ Highland Heights, KY (Cincinnati Metro-area)
 
 **Study Abroad Program** — [Ludwig Maximilian University of Munich](https://www.lmu.de/en/), Germany
 
-Munich, Bavaria, Germany
+_Munich, Germany_
 
 - Completed a Study Abroad Program at Ludwig Maximilian University of Munich
 - Focused on German language, culture, international economics, and cross-cultural business communication
 - Strengthened global perspective and foreign language proficiency
 
-**Bachelor of Arts in International Studies** — Northern Kentucky University, [College of Arts & Sciences](https://www.nku.edu/artsci/departments/pscjol)
+**Bachelor of Arts in International Studies** — Northern Kentucky University, [College of Arts & Sciences](https://www.nku.edu/artsci/departments/pscjol/)
 
-Highland Heights, KY (Cincinnati Metro-area)
+_Highland Heights, KY (Cincinnati-Metro)_
 
 - Earned a Bachelor of Arts in International Studies from Northern Kentucky University
 - Gained expertise in international affairs, economics, and cross-cultural communication
 - Achieved mastery in a foreign language to strengthen global perspective and engagement
 
-**Percussion Studies Program** — University of Cincinnati, [College-Conservatory of Music (CCM)](https://www.ccm.uc.edu)
+**Percussion Studies Program** — University of Cincinnati, [College-Conservatory of Music (CCM)](https://www.ccm.uc.edu/)
 
-Cincinnati, OH
+_Cincinnati, Ohio_
 
 - Refined percussion techniques through intensive conservatory training and peer collaboration
 - Specialized in orchestral, chamber, and contemporary music, demonstrating versatility and adaptability
@@ -125,8 +116,7 @@ German: Professional Working Proficiency
 
 ## Contact
 
-|                 |                                                                                                               |
-| :-------------: | :-----------------------------------------------------------------------------------------------------------: |
-|  ✉️ **Email**   | [muegels@protonmail.com](mailto:muegels@protonmail.com?subject=Re:%20Your%20GitHub%20R%C3%A9sum%C3%A9%20Page) |
-|  💻 **GitHub**  |                                 [github.com/smueg](https://github.com/smueg)                                  |
-| 🔗 **LinkedIn** |                          [linkedin.com/in/smuegel](https://linkedin.com/in/smuegel)                           |
+|                                                                                 |                                                                               |
+| :-----------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
+| **✉️ EMAIL CONTACT**<br>[muegels@protonmail.com](mailto:muegels@protonmail.com) |
+|          **💻 GITHUB**<br>[github.com/smueg](https://github.com/smueg)          | **🔗 LINKEDIN**<br>[linkedin.com/in/smuegel](https://linkedin.com/in/smuegel) |
