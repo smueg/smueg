@@ -111,8 +111,8 @@ German: Professional Working Proficiency
 
 ## Contact
 
-|                 |                                                            |
-| :-------------: | :--------------------------------------------------------: |
-|  ✉️ **Email**   |  [muegels@protonmail.com](mailto:muegels@protonmail.com)   |
-|  💻 **GitHub**  |        [github.com/smueg](https://github.com/smueg)        |
-| 🔗 **LinkedIn** | [linkedin.com/in/smuegel](https://linkedin.com/in/smuegel) |
+|                 |                                                                                                        |
+| :-------------: | :----------------------------------------------------------------------------------------------------: |
+|  ✉️ **Email**   | [muegels@protonmail.com](mailto:muegels@protonmail.com?subject=Re:%20Your%20GitHub%20R%C3%A9sum%C3%A9) |
+|  💻 **GitHub**  |                              [github.com/smueg](https://github.com/smueg)                              |
+| 🔗 **LinkedIn** |                       [linkedin.com/in/smuegel](https://linkedin.com/in/smuegel)                       |

@@ -72,6 +72,6 @@ I'm a full-stack developer who's just as comfortable writing a Vue component as 
 
 #### 📫 Let's Connect
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/smuegel) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muegels@protonmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/smuegel) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muegels@protonmail.com?subject=Re:%20Your%20GitHub%20Profile%20%5Bsmueg%5D)
 
 </div>
