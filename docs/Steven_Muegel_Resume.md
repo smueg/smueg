@@ -4,6 +4,8 @@ Washington DC–Baltimore Area · [Email](mailto:muegels@protonmail.com) · [Lin
 
 ### Full-Stack Developer & DevOps Engineer
 
+<br>
+
 [![PDF Résumé](https://img.shields.io/badge/View_Résumé-PDF-0000?style=for-the-badge&logo=pagekit&logoColor=white)](https://github.com/smueg/smueg/blob/main/docs/Steven_Muegel_FullStack_DevOps_Résumé.pdf)
 
 ---
@@ -16,22 +18,22 @@ Full-Stack Developer & DevOps Engineer with 10 years building and deploying acce
 
 ## Technical Skills
 
-| Category | Skills |
-|---|---|
-| **Languages** | JavaScript (ES6+), TypeScript, Python, PHP, Ruby, C#, Bash/Shell Scripting, HTML5, CSS3, SQL |
-| **Frameworks & Libraries** | Node.js, Vue.js, Angular, Django, Laravel, Ruby on Rails, ASP.NET, Entity Framework (ORM), WordPress |
-| **APIs & Integration** | REST APIs, GraphQL |
-| **Cloud & DevOps** | AWS, Azure, Docker, Kubernetes, Git, Jenkins, TFS, Jira, CI/CD Pipelines, Linux Administration, Shell Automation |
-| **Security & Compliance** | OWASP Top 10, NIST Cybersecurity Framework, WCAG 2.1 / Section 508, Fortify Code Analysis |
+| Category                   | Skills                                                                                                           |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Languages**              | JavaScript (ES6+), TypeScript, Python, PHP, Ruby, C#, Bash/Shell Scripting, HTML5, CSS3, SQL                     |
+| **Frameworks & Libraries** | Node.js, Vue.js, Angular, Django, Laravel, Ruby on Rails, ASP.NET, Entity Framework (ORM), WordPress             |
+| **APIs & Integration**     | REST APIs, GraphQL                                                                                               |
+| **Cloud & DevOps**         | AWS, Azure, Docker, Kubernetes, Git, Jenkins, TFS, Jira, CI/CD Pipelines, Linux Administration, Shell Automation |
+| **Security & Compliance**  | OWASP Top 10, NIST Cybersecurity Framework, WCAG 2.1 / Section 508, Fortify Code Analysis                        |
 
 ---
 
 ## Professional Experience
 
-### Web Applications Developer II (Full-Stack & DevOps) — [CACI International](https://www.caci.com/), Federal Contractor
+### Web Applications Developer II (Full-Stack & DevOps) — [CACI International](https://www.caci.com), Federal Contractor
 
-*National Institute for Occupational Safety and Health (CDC/NIOSH/DCAS)*
-*09/2015 – 02/2026*
+_National Institute for Occupational Safety and Health (CDC/NIOSH/DCAS)_
+_09/2015 – 02/2026_
 
 - Delivered full-stack upgrades to high-traffic government WordPress platforms, achieving full WCAG/Section 508 accessibility compliance while maintaining platform security through Fortify code scans and remediating flagged vulnerabilities
 - Automated deployment, data migration, and server maintenance using Bash/Shell scripting and Ruby batch jobs — cut manual overhead 15% (an estimated 3–6 hours weekly)
@@ -42,18 +44,18 @@ Full-Stack Developer & DevOps Engineer with 10 years building and deploying acce
 - Coordinated Agile sprints and backlogs in Jira, driving project tracking, analytics, and reporting across full-stack development teams
 - Mentored team members transitioning from legacy workflows on modern CI/CD practices and cross-platform scripting (Bash/PowerShell), advocating for dependency injection over siloed local development
 
-### Web Developer/Administrator — [Center for Economic Analysis and Development](https://www.nku.edu/cob/centers/cead/), Northern Kentucky University
+### Web Developer/Administrator — [Center for Economic Analysis and Development](https://www.nku.edu/cob/centers/cead), Northern Kentucky University
 
-*05/2012 – 09/2015*
+_05/2012 – 09/2015_
 
 - Built and administered PHP/Laravel CMS sites supporting 10,000+ monthly active users
 - Automated backups and security scans with custom Bash scripts
 - Built Django/Python analytical tools that improved reporting for economic research
 - Redesigned key pages mobile-first — boosted user retention 20%
 
-### Biomedical Informatics Intern (Perioperative Surgical Safety) — Part-Time — [Cincinnati Children's Hospital Medical Center](https://www.cincinnatichildrens.org/)
+### Biomedical Informatics Intern (Perioperative Surgical Safety) — Part-Time — [Cincinnati Children's Hospital Medical Center](https://www.cincinnatichildrens.org)
 
-*09/2011 – 12/2011 · ~30 hrs/week alongside final-semester coursework*
+_09/2011 – 12/2011 · ~30 hrs/week alongside final-semester coursework_
 
 - Replaced a legacy surgical safety system with a new web-based platform — increased data accessibility 20%
 - Prototyped UI and built a reusable CSS framework for faster modular updates
@@ -62,7 +64,7 @@ Full-Stack Developer & DevOps Engineer with 10 years building and deploying acce
 
 ## Personal Projects
 
-*Independent, self-directed work outside of paid employment — included to show current tooling exploration and initiative.*
+_Independent, self-directed work outside of paid employment — included to show current tooling exploration and initiative._
 
 - **AI-Assisted Development Prototype**: Built a personal search/content-classification prototype using the Claude and Gemini APIs (via Claude Code CLI), published to personal GitHub repositories
 - **Modern Front-End Exploration**: Experimented with React and Next.js on independent projects
@@ -75,7 +77,7 @@ Full-Stack Developer & DevOps Engineer with 10 years building and deploying acce
 
 ## Education
 
-**Bachelor of Science in Computer Information Technology** — Northern Kentucky University, [College of Informatics](https://www.nku.edu/informatics/)
+**Bachelor of Science in Computer Information Technology** — Northern Kentucky University, [College of Informatics](https://www.nku.edu/informatics)
 
 - Earned a Bachelor of Science in Computer Information Technology from Northern Kentucky University
 - Gained expertise in web development, software engineering, and database management
@@ -87,13 +89,13 @@ Full-Stack Developer & DevOps Engineer with 10 years building and deploying acce
 - Focused on German language, culture, international economics, and cross-cultural business communication
 - Strengthened global perspective and foreign language proficiency
 
-**Bachelor of Arts in International Studies** — Northern Kentucky University, [College of Arts & Sciences](https://www.nku.edu/artsci/departments/pscjol/)
+**Bachelor of Arts in International Studies** — Northern Kentucky University, [College of Arts & Sciences](https://www.nku.edu/artsci/departments/pscjol)
 
 - Earned a Bachelor of Arts in International Studies from Northern Kentucky University
 - Gained expertise in international affairs, economics, and cross-cultural communication
 - Achieved mastery in a foreign language to strengthen global perspective and engagement
 
-**Percussion Studies Program** — University of Cincinnati, [College-Conservatory of Music (CCM)](https://www.ccm.uc.edu/)
+**Percussion Studies Program** — University of Cincinnati, [College-Conservatory of Music (CCM)](https://www.ccm.uc.edu)
 
 - Refined percussion techniques through intensive conservatory training and peer collaboration
 - Specialized in orchestral, chamber, and contemporary music, demonstrating versatility and adaptability
@@ -109,9 +111,8 @@ German: Professional Working Proficiency
 
 ## Contact
 
-| | |
-|:---:|:---:|
-| ✉️ **Email** | [muegels@protonmail.com](mailto:muegels@protonmail.com) |
-| 📞 **Phone** | [+1 (614) 963-5651](tel:+16149635651) |
-| 💻 **GitHub** | [github.com/smueg](https://github.com/smueg) |
+|                 |                                                            |
+| :-------------: | :--------------------------------------------------------: |
+|  ✉️ **Email**   |  [muegels@protonmail.com](mailto:muegels@protonmail.com)   |
+|  💻 **GitHub**  |        [github.com/smueg](https://github.com/smueg)        |
 | 🔗 **LinkedIn** | [linkedin.com/in/smuegel](https://linkedin.com/in/smuegel) |
