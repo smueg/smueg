@@ -12,7 +12,7 @@ I ship code built to survive contact with real users — and real audits. I have
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/smuegel) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muegels@protonmail.com)
 
-[![View Résumé](https://img.shields.io/badge/View-Résumé-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/smueg/smueg/blob/main/docs/Steven_Muegel_Resume.md)
+[![View Résumé](https://img.shields.io/badge/View-Résumé-58A6FF?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/smueg/smueg/blob/main/docs/Steven_Muegel_Resume.md)
 
 </div>
 
