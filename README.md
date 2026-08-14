@@ -8,7 +8,7 @@
 
 </div>
 
-### I ship code built to survive contact with real users — and real audits. I have 10 years of building accessible, high-traffic web applications, with the DevOps range to deploy and maintain them.
+#### I ship code built to survive contact with real users — and real audits. I have 10 years of building accessible, high-traffic web applications, with the DevOps range to deploy and maintain them.
 
 <div align="center">
 
