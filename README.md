@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# Hi, I'm Steven Muegel
+# Full-Stack Developer & DevOps Engineer
 
-### Full-Stack Developer & DevOps Engineer
+### Hi, I'm Steven Muegel
 
 I ship code built to survive contact with real users — and real audits. I have 10 years of building accessible, high-traffic web applications, with the DevOps range to deploy and maintain them.
 
