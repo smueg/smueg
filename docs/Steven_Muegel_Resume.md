@@ -34,8 +34,8 @@ Full-Stack Developer & DevOps Engineer with 10 years building and deploying acce
 
 Remote
 
-_National Institute for Occupational Safety and Health (CDC/NIOSH/DCAS)_
 _09/2015 – 02/2026_
+_National Institute for Occupational Safety and Health (CDC/NIOSH/DCAS)_
 
 - Delivered full-stack upgrades to high-traffic government WordPress platforms, achieving full WCAG/Section 508 accessibility compliance while maintaining platform security through Fortify code scans and remediating flagged vulnerabilities
 - Automated deployment, data migration, and server maintenance using Bash/Shell scripting and Ruby batch jobs — cut manual overhead 15% (an estimated 3–6 hours weekly)
