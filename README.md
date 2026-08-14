@@ -10,7 +10,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smuegel) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muegels@protonmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/smuegel) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muegels@protonmail.com)
 
 [![View Résumé](https://img.shields.io/badge/View-Résumé-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/smueg/smueg/blob/main/docs/Steven_Muegel_Resume.md)
 
@@ -68,4 +68,8 @@ _Independent, self-directed work outside the scope of work._
 
 ---
 
-📫 Let's connect — [LinkedIn](https://linkedin.com/in/smuegel) · [Email me](mailto:muegels@protonmail.com)
+<div align=center>
+
+#### 📫 Let's connect — [LinkedIn](https://linkedin.com/in/smuegel) · [Email me](mailto:muegels@protonmail.com)
+
+</div>
