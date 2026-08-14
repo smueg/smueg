@@ -6,13 +6,9 @@
 
 ### Hi, I'm Steven Muegel
 
-</div>
-
 > I ship code built to survive contact with real users — and real audits. I have 10 years of building accessible, high-traffic web applications, with the DevOps range to deploy and maintain them.
 
 <br>
-
-<div align=center>
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/smuegel) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muegels@protonmail.com)
 
