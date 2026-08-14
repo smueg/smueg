@@ -32,7 +32,7 @@ Full-Stack Developer & DevOps Engineer with 10 years building and deploying acce
 
 ### Web Applications Developer II (Full-Stack & DevOps) — [CACI International](https://www.caci.com), Federal Contractor
 
-_(Remote)_
+Remote
 
 _National Institute for Occupational Safety and Health (CDC/NIOSH/DCAS)_
 _09/2015 – 02/2026_
@@ -48,7 +48,7 @@ _09/2015 – 02/2026_
 
 ### Web Developer/Administrator — [Center for Economic Analysis and Development](https://www.nku.edu/cob/centers/cead), Northern Kentucky University
 
-_(Highland Heights, KY [Cincinnati Metro-Area])_
+Highland Heights, KY [Cincinnati Metro-Area]
 
 _05/2012 – 09/2015_
 
@@ -59,7 +59,7 @@ _05/2012 – 09/2015_
 
 ### Biomedical Informatics Intern (Perioperative Surgical Safety) — Part-Time — [Cincinnati Children's Hospital Medical Center](https://www.cincinnatichildrens.org)
 
-_(Cincinnati, OH)_
+Cincinnati, OH
 
 _09/2011 – 12/2011 · ~30 hrs/week alongside final-semester coursework_
 
@@ -85,7 +85,7 @@ _Independent, self-directed work outside of paid employment — included to show
 
 **Bachelor of Science in Computer Information Technology** — Northern Kentucky University, [College of Informatics](https://www.nku.edu/informatics)
 
-_(Highland Heights, KY [Cincinnati Metro-Area])_
+Highland Heights, KY [Cincinnati Metro-Area]
 
 - Earned a Bachelor of Science in Computer Information Technology from Northern Kentucky University
 - Gained expertise in web development, software engineering, and database management
@@ -93,7 +93,7 @@ _(Highland Heights, KY [Cincinnati Metro-Area])_
 
 **Study Abroad Program** — [Ludwig Maximilian University of Munich](https://www.lmu.de/en/), Germany
 
-_(Munich, Bavaria, Germany)_
+Munich, Bavaria, Germany
 
 - Completed a Study Abroad Program at Ludwig Maximilian University of Munich
 - Focused on German language, culture, international economics, and cross-cultural business communication
@@ -101,7 +101,7 @@ _(Munich, Bavaria, Germany)_
 
 **Bachelor of Arts in International Studies** — Northern Kentucky University, [College of Arts & Sciences](https://www.nku.edu/artsci/departments/pscjol)
 
-_(Highland Heights, KY [Cincinnati Metro-Area])_
+Highland Heights, KY [Cincinnati Metro-Area]
 
 - Earned a Bachelor of Arts in International Studies from Northern Kentucky University
 - Gained expertise in international affairs, economics, and cross-cultural communication
@@ -109,7 +109,7 @@ _(Highland Heights, KY [Cincinnati Metro-Area])_
 
 **Percussion Studies Program** — University of Cincinnati, [College-Conservatory of Music (CCM)](https://www.ccm.uc.edu)
 
-_(Cincinnati, OH)_
+Cincinnati, OH
 
 - Refined percussion techniques through intensive conservatory training and peer collaboration
 - Specialized in orchestral, chamber, and contemporary music, demonstrating versatility and adaptability
