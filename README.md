@@ -57,7 +57,7 @@ I'm a full-stack developer who's just as comfortable writing a Vue component as 
 
 ## 🧪 Personal Projects
 
-<dl><dd>_Independent, self-directed work outside the scope of work._</dd></dl>
+<dl><dd>*Independent, self-directed work outside the scope of work.*</dd></dl>
 
 - 🤖 **AI-Assisted Development Prototype** — Personal search/content-classification prototype using the Claude and Gemini APIs via Claude Code CLI
 - ⚛️ **Modern Front-End Exploration** — React and Next.js experimentation
