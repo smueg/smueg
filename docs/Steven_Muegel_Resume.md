@@ -1,6 +1,6 @@
 # STEVEN MUEGEL
 
-Washington DC–Baltimore Area · [Email](mailto:muegels@protonmail.com) · [LinkedIn](https://linkedin.com/in/smuegel) · [GitHub](https://github.com/smueg)
+Washington DC–Baltimore Area · [Email](mailto:muegels@protonmail.com) · [GitHub](https://github.com/smueg)· [LinkedIn](https://linkedin.com/in/smuegel)
 
 ### Full-Stack Developer & DevOps Engineer
 

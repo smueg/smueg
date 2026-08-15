@@ -10,7 +10,7 @@ I ship code built to survive contact with real users — and real audits. I have
 
 <br>
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/smuegel) &nbsp;&nbsp; [![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:muegels@protonmail.com)
+[![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:muegels@protonmail.com) &nbsp;&nbsp; [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/smuegel)
 
 [![View Résumé](https://img.shields.io/badge/View-Résumé-58A6FF?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/smueg/smueg/blob/main/docs/Steven_Muegel_Resume.md)
 
@@ -74,6 +74,6 @@ I'm a full-stack developer who's just as comfortable writing a Vue component as 
 
 **Email** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **GitHub** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **LinkedIn**
 
-[![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:muegels@protonmail.com?subject=Re:%20Your%20GitHub%20Profile%5Bsmueg%5D) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smueg) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/smuegel)
+[![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:muegels@protonmail.com?subject=Re:%20Your%20GitHub%20Profile%20%5Bsmueg%5D) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smueg) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/smuegel)
 
 </div>
