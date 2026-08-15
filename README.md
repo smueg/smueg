@@ -74,6 +74,6 @@ I'm a full-stack developer who's just as comfortable writing a Vue component as 
 
 **Email** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **GitHub** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **LinkedIn**
 
-[![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:muegels@protonmail.com?subject=Re:%20Your%20GitHub%20R%C3%A9sum%C3%A9) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smueg) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/smuegel)
+[![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:muegels@protonmail.com?subject=Re:%20Your%20GitHub%20Profile%20%91smueg%93) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smueg) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/smuegel)
 
 </div>
