@@ -31,7 +31,7 @@ Full-Stack Developer & DevOps Engineer with 10 years building and deploying acce
 
 ## Professional Experience
 
-### Web Applications Developer II (Full-Stack & DevOps) — [CACI International](https://www.caci.com/), Federal Contractor
+### Web Applications Developer (Full-Stack & DevOps) — [CACI International](https://www.caci.com/), Federal Contractor
 
 _09/2015 – 02/2026 · National Institute for Occupational Safety and Health (CDC/NIOSH/DCAS) · Remote_
 
