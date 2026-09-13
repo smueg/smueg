@@ -22,12 +22,18 @@ I ship code built to survive contact with real users — and real audits. I have
 
 I'm a full-stack developer who's just as comfortable writing a Vue component as I am writing the Bash script and CI/CD pipeline that ships it. Over the past decade I've built and maintained high-traffic, accessibility-compliant (WCAG/Section 508) platforms for federal and higher-ed clients — automating deployments, hardening security, and owning features end-to-end from front end to production.
 
-- 🔧 Cut manual deployment overhead **15%** through Bash/Shell automation
-- 🖥️ Built full-stack features across Laravel and Django that grew user engagement **25%**
-- 🔄 Modernized a legacy ASP application to C#/.NET, building the Angular front-end and integrating ASP.NET Web API with SQL Server
-- ♿ Delivered **100% WCAG/Section 508** accessibility compliance on government platforms
-- 🔐 Passed federal **Fortify** code-security scans and Section 508 accessibility audits
-- 📋 Ran Agile delivery in Jira across cross-functional dev teams
+---
+
+## 🧪 Personal Projects
+
+> _Independent, self-directed work outside the scope of work._
+
+- 🤖 **AI-Assisted Development Prototype** — Personal search/content-classification prototype using the Claude and Gemini APIs via Claude Code CLI
+- ⚛️ **Modern Front-End Exploration** — React and Next.js experimentation
+- 🗄️ **NoSQL Data Stores** — Redis and other NoSQL databases for caching and data-modeling experiments
+- 🐳 **Container Runtime Exploration** — Podman as a rootless alternative to Docker
+- 🧩 **Microservices Architecture** — Multi-container microservices setups with Docker and Docker Compose
+- 🔒 **Secure Tunnel Infrastructure** — Self-hosted alternative to Cloudflare Tunnel using Pangolin, Traefik, and WireGuard, built for full-path (not just endpoint) encryption
 
 ---
 
@@ -52,19 +58,6 @@ I'm a full-stack developer who's just as comfortable writing a Vue component as 
 **Security & Compliance**
 
 [![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white) [![NIST Cybersecurity Framework](https://img.shields.io/badge/NIST%20Cybersecurity%20Framework-1B1F3B?style=for-the-badge)](https://img.shields.io/badge/NIST%20Cybersecurity%20Framework-1B1F3B?style=for-the-badge) [![WCAG](https://img.shields.io/badge/WCAG%202.1-2E8B57?style=for-the-badge)](https://img.shields.io/badge/WCAG%202.1-2E8B57?style=for-the-badge) [![Section 508](https://img.shields.io/badge/Section%20508-2E8B57?style=for-the-badge)](https://img.shields.io/badge/Section%20508-2E8B57?style=for-the-badge) [![Fortify Code Analysis](https://img.shields.io/badge/Fortify%20Code%20Analysis-B71C1C?style=for-the-badge)](https://img.shields.io/badge/Fortify%20Code%20Analysis-B71C1C?style=for-the-badge)
-
----
-
-## 🧪 Personal Projects
-
-> _Independent, self-directed work outside the scope of work._
-
-- 🤖 **AI-Assisted Development Prototype** — Personal search/content-classification prototype using the Claude and Gemini APIs via Claude Code CLI
-- ⚛️ **Modern Front-End Exploration** — React and Next.js experimentation
-- 🗄️ **NoSQL Data Stores** — Redis and other NoSQL databases for caching and data-modeling experiments
-- 🐳 **Container Runtime Exploration** — Podman as a rootless alternative to Docker
-- 🧩 **Microservices Architecture** — Multi-container microservices setups with Docker and Docker Compose
-- 🔒 **Secure Tunnel Infrastructure** — Self-hosted alternative to Cloudflare Tunnel using Pangolin, Traefik, and WireGuard, built for full-path (not just endpoint) encryption
 
 ---
 
