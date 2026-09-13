@@ -31,7 +31,7 @@ DevOps-focused full-stack developer with a strong Linux CLI and open-source syst
 
 ## Professional Experience
 
-### Full-Stack Developer — [CACI International](https://www.caci.com), Federal Contractor
+### Full-Stack Developer at [CACI International](https://www.caci.com), Federal Contractor
 
 _01/2021 – 02/2026 · National Institute for Occupational Safety and Health (CDC/NIOSH) · Remote_
 
@@ -41,14 +41,14 @@ _01/2021 – 02/2026 · National Institute for Occupational Safety and Health (C
 - Coordinated Agile sprints and backlogs in Jira to align development priorities across teams
 - Replaced siloed development with dependency-injected, cross-platform scripting practices, standardizing CI/CD workflows across teams
 
-### Front-End Developer — [CACI International](https://www.caci.com), Federal Contractor
+### Front-End Developer at [CACI International](https://www.caci.com), Federal Contractor
 
 _09/2015 – 12/2020 · National Institute for Occupational Safety and Health (CDC/NIOSH) · Remote_
 
 - Served as front-end developer for government WordPress CMS platforms, meeting WCAG/Section 508
 - Developed features in Laravel and Django, boosting user engagement 25% via Adobe Analytics
 
-### Front-End Developer/Web Admin — [Center for Economic Analysis and Development](https://www.nku.edu/cob/centers/cead), Northern Kentucky University
+### Front-End Developer/Web Admin at the [Center for Economic Analysis and Development](https://www.nku.edu/cob/centers/cead), Northern Kentucky University
 
 _05/2012 – 09/2015 · Highland Heights, KY_
 
@@ -56,7 +56,7 @@ _05/2012 – 09/2015 · Highland Heights, KY_
 - Automated backups and security scans with custom Bash scripts
 - Built Django/Python analytical tools that improved reporting for economic research
 
-### Biomedical Informatics Intern (Perioperative Surgical Safety, Part-Time) — [Cincinnati Children's Hospital Medical Center](https://www.cincinnatichildrens.org)
+### Biomedical Informatics Intern (Perioperative Surgical Safety, Part-Time) at [Cincinnati Children's Hospital Medical Center](https://www.cincinnatichildrens.org)
 
 _09/2011 – 12/2011 · Cincinnati, OH · ~30 hrs/week alongside final coursework_
 
@@ -78,14 +78,14 @@ _Independent, self-directed work outside the scope of work._
 
 ## Education
 
-**Bachelor of Science, Computer Information Technology** — Northern Kentucky University, [College of Informatics](https://www.nku.edu/informatics)
+**Bachelor of Science, Computer Information Technology** at Northern Kentucky University, [College of Informatics](https://www.nku.edu/informatics)
 
 _Highland Heights, KY_
 
 - Gained expertise in web development, software engineering, and database management
 - Completed hands-on projects that strengthened problem-solving and technical skills, including graduate-level coursework as an undergraduate
 
-**Bachelor of Arts, International Studies** — [Northern Kentucky University](https://www.nku.edu), College of Arts & Sciences
+**Bachelor of Arts, International Studies** at [Northern Kentucky University](https://www.nku.edu), College of Arts & Sciences
 
 _Highland Heights, KY_
 
