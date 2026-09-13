@@ -33,7 +33,7 @@ DevOps-focused full-stack developer with a strong Linux CLI and open-source syst
 
 ### Full-Stack Developer at [CACI International](https://www.caci.com), Federal Contractor
 
-_01/2021 – 02/2026 · National Institute for Occupational Safety and Health (CDC/NIOSH) · Remote_
+_1/2021 – 2/2026 · National Institute for Occupational Safety and Health (CDC/NIOSH) · Remote_
 
 - Built the Angular front-end for a legacy ASP-to-C# modernization initiative, integrating ASP.NET Web API and SQL Server
 - Automated deployment, data migration, and server maintenance, reducing manual overhead 15%
@@ -43,14 +43,14 @@ _01/2021 – 02/2026 · National Institute for Occupational Safety and Health (C
 
 ### Front-End Developer at [CACI International](https://www.caci.com), Federal Contractor
 
-_09/2015 – 12/2020 · National Institute for Occupational Safety and Health (CDC/NIOSH) · Remote_
+_9/2015 – 12/2020 · National Institute for Occupational Safety and Health (CDC/NIOSH) · Remote_
 
 - Served as front-end developer for government WordPress CMS platforms, meeting WCAG/Section 508
 - Developed features in Laravel and Django, boosting user engagement 25% via Adobe Analytics
 
 ### Front-End Developer/Web Admin at the [Center for Economic Analysis and Development](https://www.nku.edu/cob/centers/cead), Northern Kentucky University
 
-_05/2012 – 09/2015 · Highland Heights, KY_
+_5/2012 – 9/2015 · Highland Heights, KY_
 
 - Sole developer and administrator for the organization's PHP/Laravel CMS, serving monthly visitors and business leaders across the Cincinnati metro region
 - Automated backups and security scans with custom Bash scripts
@@ -58,7 +58,7 @@ _05/2012 – 09/2015 · Highland Heights, KY_
 
 ### Biomedical Informatics Intern (Perioperative Surgical Safety, Part-Time) at [Cincinnati Children's Hospital Medical Center](https://www.cincinnatichildrens.org)
 
-_09/2011 – 12/2011 · Cincinnati, OH · ~30 hrs/week alongside final coursework_
+_9/2011 – 12/2011 · Cincinnati, OH · ~30 hrs/week alongside final coursework_
 
 - Replaced a legacy surgical safety system with a new web-based platform, increasing data accessibility 20%
 - Prototyped UI and built a reusable CSS framework for faster modular updates
