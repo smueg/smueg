@@ -80,7 +80,7 @@ _Independent, self-directed work outside the scope of work._
 
 **Bachelor of Science, Computer Information Technology** at Northern Kentucky University, [College of Informatics](https://www.nku.edu/informatics)
 
-_Highland Heights, KY (Cincinnati Metro Area) _
+_Highland Heights, KY (Cincinnati Metro Area)_
 
 - Gained expertise in web development, software engineering, and database management
 - Completed hands-on projects that strengthened problem-solving and technical skills, including graduate-level coursework as an undergraduate
