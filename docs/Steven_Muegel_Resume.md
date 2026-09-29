@@ -50,7 +50,7 @@ _9/2015 – 12/2020 · National Institute for Occupational Safety and Health (CD
 
 ### Front-End Developer/Web Admin at the [Center for Economic Analysis and Development](https://www.nku.edu/cob/centers/cead), Northern Kentucky University
 
-_5/2012 – 9/2015 · Highland Heights, KY_
+_5/2012 – 9/2015 · Highland Heights, KY (Cincinnati Metro Area)_
 
 - Sole developer and administrator for the organization's PHP/Laravel CMS, serving monthly visitors and business leaders across the Cincinnati metro region
 - Automated backups and security scans with custom Bash scripts
@@ -80,14 +80,14 @@ _Independent, self-directed work outside the scope of work._
 
 **Bachelor of Science, Computer Information Technology** at Northern Kentucky University, [College of Informatics](https://www.nku.edu/informatics)
 
-_Highland Heights, KY_
+_Highland Heights, KY (Cincinnati Metro Area) _
 
 - Gained expertise in web development, software engineering, and database management
 - Completed hands-on projects that strengthened problem-solving and technical skills, including graduate-level coursework as an undergraduate
 
 **Bachelor of Arts, International Studies** at [Northern Kentucky University](https://www.nku.edu), College of Arts & Sciences
 
-_Highland Heights, KY_
+_Highland Heights, KY (Cincinnati Metro Area)_
 
 - Gained expertise in international affairs, economics, and cross-cultural communication
 - Achieved mastery in a foreign language to strengthen global perspective and engagement
@@ -96,7 +96,7 @@ _Highland Heights, KY_
 
 ## Languages
 
-German: Professional Working Proficiency
+German: Professional Working Proficiency _(Study Abroad in Munich, Germany)_
 
 ---
 
