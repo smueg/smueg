@@ -18,14 +18,14 @@ DevOps-focused full-stack developer with a strong Linux CLI and open-source syst
 
 ## Technical Skills
 
-| Category                   | Skills                                                                                     |
-| --------------------------- | -------------------------------------------------------------------------------------------- |
-| **Languages**               | Python, JavaScript/TypeScript (Angular), Ruby, PHP, C#, Bash/Shell Scripting                  |
-| **Frameworks & Libraries**  | Node.js, TypeScript, Vue.js, Angular, Django, Laravel, Ruby on Rails, ASP.NET, Entity Framework (ORM), WordPress |
-| **APIs & Integration**      | REST APIs, GraphQL                                                                            |
-| **Databases**               | Oracle EE, Oracle RMAN, Microsoft SQL Server                                                  |
-| **Cloud & DevOps**          | AWS, Azure, Docker, Kubernetes, Git, Jenkins, TFS, Jira, CI/CD Pipelines, Linux Administration, Shell Automation |
-| **Security & Compliance**   | OWASP Top 10, NIST Cybersecurity Framework, WCAG 2.1 / Section 508, Fortify Code Analysis      |
+| Category                   | Skills                                                                                                           |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Languages**              | Python, JavaScript/TypeScript (Angular), Ruby, PHP, C#, Bash/Shell Scripting                                     |
+| **Frameworks & Libraries** | Node.js, TypeScript, Vue.js, Angular, Django, Laravel, Ruby on Rails, ASP.NET, Entity Framework (ORM), WordPress |
+| **APIs & Integration**     | REST APIs, GraphQL                                                                                               |
+| **Databases**              | Oracle EE, Oracle RMAN, Microsoft SQL Server                                                                     |
+| **Cloud & DevOps**         | AWS, Azure, Docker, Kubernetes, Git, Jenkins, TFS, Jira, CI/CD Pipelines, Linux Administration, Shell Automation |
+| **Security & Compliance**  | OWASP Top 10, NIST Cybersecurity Framework, WCAG 2.1 / Section 508, Fortify Code Analysis                        |
 
 ---
 
@@ -56,7 +56,7 @@ _5/2012 – 9/2015 · Highland Heights, KY (Cincinnati Metro Area)_
 - Automated backups and security scans with custom Bash scripts
 - Built Django/Python analytical tools that improved reporting for economic research
 
-### Biomedical Informatics Intern (Perioperative Surgical Safety, Part-Time) at [Cincinnati Children's Hospital Medical Center](https://www.cincinnatichildrens.org)
+### Biomedical Informatics Intern (Perioperative Surgical Safety) at [Cincinnati Children's Hospital Medical Center](https://www.cincinnatichildrens.org)
 
 _9/2011 – 12/2011 · Cincinnati, OH · ~30 hrs/week alongside final coursework_
 
@@ -96,7 +96,7 @@ _Highland Heights, KY (Cincinnati Metro Area)_
 
 ## Languages
 
-German: Professional Working Proficiency _(Study Abroad in Munich, Germany)_
+German: Professional Working Proficiency _(International Studies degree; study abroad in Munich, Germany)_
 
 ---
 
