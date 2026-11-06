@@ -12,7 +12,7 @@ I have 10 years of building accessible, high-traffic web applications, with the 
 
 [![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:muegels@protonmail.com?subject=Re:%20Your%20GitHub%20Profile%20%5Bsmueg%5D) &nbsp;[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/smuegel)
 
-[![View Résumé](https://img.shields.io/badge/View-Résumé-2EA44F?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/smueg/smueg/blob/main/docs/Steven_Muegel_Resume.md)
+[![View Résumé](https://img.shields.io/badge/View-Résumé-2EA44F?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/smueg/smueg/blob/main/docs/SM_Résumé.md)
 
 </div>
 
