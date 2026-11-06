@@ -1,4 +1,4 @@
-# STEVEN MUEGEL
+# STÉFFEN MÜGEL
 
 Washington DC–Baltimore Area · [Email](mailto:muegels@protonmail.com?subject=Re:%20Your%20GitHub%20R%C3%A9sum%C3%A9) · [GitHub](https://github.com/smueg) · [LinkedIn](https://linkedin.com/in/smuegel)
 
@@ -6,7 +6,7 @@ Washington DC–Baltimore Area · [Email](mailto:muegels@protonmail.com?subject=
 
 <br>
 
-[![PDF Résumé](https://img.shields.io/badge/View_Résumé-PDF-FA0F00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTE0IDJINmMtMS4xIDAtMS45OS45LTEuOTkgMkw0IDIwYzAgMS4xLjg5IDIgMS45OSAySDE4YzEuMSAwIDItLjkgMi0yVjhsLTYtNnptMiAxNkg4di0yaDh2MnptMC00SDh2LTJoOHYyem0tMy01VjMuNUwxOC41IDlIMTN6Ii8+PC9zdmc+&logoColor=white)](https://github.com/smueg/smueg/blob/main/docs/Steven-Muegel_Résumé.pdf)
+[![PDF Résumé](https://img.shields.io/badge/View_Résumé-PDF-FA0F00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTE0IDJINmMtMS4xIDAtMS45OS45LTEuOTkgMkw0IDIwYzAgMS4xLjg5IDIgMS45OSAySDE4YzEuMSAwIDItLjkgMi0yVjhsLTYtNnptMiAxNkg4di0yaDh2MnptMC00SDh2LTJoOHYyem0tMy01VjMuNUwxOC41IDlIMTN6Ii8+PC9zdmc+&logoColor=white)](SM_Résumé.pdf) &nbsp;[![Auf Deutsch lesen](https://img.shields.io/badge/Auf_Deutsch-Lebenslauf-DD0000?style=for-the-badge&labelColor=000000)](../de-DE/docs/SM_Résumé_de-DE.md)
 
 ---
 

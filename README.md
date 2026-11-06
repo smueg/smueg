@@ -4,7 +4,7 @@
 
 # Full-Stack Developer & DevOps Engineer
 
-### Hi, I'm Steven Muegel
+### Hi, I'm Stéffen
 
 I have 10 years of building accessible, high-traffic web applications, with the DevOps range to deploy and maintain them.
 
