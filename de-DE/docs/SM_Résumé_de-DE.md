@@ -12,7 +12,7 @@ Raum Washington, D.C.–Baltimore · [E-Mail](mailto:muegels@protonmail.com?subj
 
 ## Beruflicher Werdegang
 
-DevOps-orientierter Full-Stack-Entwickler mit fundierten Kenntnissen in der Linux-Befehlszeile und im Bereich Open-Source-Systeme sowie 10 Jahren Erfahrung in der Entwicklung barrierefreier, stark frequentierter Webanwendungen für Kunden aus dem Bundesbereich und dem Hochschulwesen. Reduzierung des Deployment-Aufwands um 15 % durch Bash-/CI-CD-Automatisierung, Steigerung der Nutzerinteraktion um 25 % durch End-to-End-Feature-Bereitstellung und Gewährleistung der WCAG-/Section-508-Konformität durch Bestehen von Fortify-Scans. Weitere Entwicklungserfahrung umfasst Python, JavaScript/TypeScript (Angular), Ruby, PHP und C#.
+DevOps-orientierter Full-Stack-Entwickler mit fundierten Kenntnissen in der Linux-Befehlszeile und im Bereich Open-Source-Systeme sowie 10 Jahren Erfahrung in der Entwicklung barrierefreier, stark frequentierter Webanwendungen für Kunden aus dem Bundesbereich und dem Hochschulwesen. Reduzierung des Deployment-Aufwands um 15% durch Bash-/CI-CD-Automatisierung, Steigerung der Nutzerinteraktion um 25% durch End-to-End-Feature-Bereitstellung und Gewährleistung der WCAG-/Section-508-Konformität durch Bestehen von Fortify-Scans. Weitere Entwicklungserfahrung umfasst Python, JavaScript/TypeScript (Angular), Ruby, PHP und C#.
 
 ---
 
@@ -36,7 +36,7 @@ DevOps-orientierter Full-Stack-Entwickler mit fundierten Kenntnissen in der Linu
 _01/2021 – 02/2026 · Nationales Institut für Arbeitssicherheit und Gesundheitsschutz (CDC/NIOSH) · Remote_
 
 - Entwicklung des Angular-Frontends für ein Modernisierungsprojekt zur Umstellung von ASP auf C# unter Einbindung von ASP.NET Web API und SQL Server
-- Automatisierung von Bereitstellung, Datenmigration und Serverwartung, wodurch der manuelle Aufwand um 15 % reduziert wurde
+- Automatisierung von Bereitstellung, Datenmigration und Serverwartung, wodurch der manuelle Aufwand um 15% reduziert wurde
 - Pflege der DevOps-Pipeline (Docker, Kubernetes, Bash) zur Verbesserung von CI/CD durch Jenkins und TFS/Azure DevOps Server, einschließlich Fortify-Scans
 - Koordination agiler Sprints und Backlogs in Jira zur Abstimmung der Entwicklungsprioritäten teamübergreifend
 - Ersatz der isolierten Entwicklung durch plattformübergreifende Skriptverfahren mit Dependency Injection, wodurch die CI/CD-Workflows teamübergreifend standardisiert wurden
@@ -46,7 +46,7 @@ _01/2021 – 02/2026 · Nationales Institut für Arbeitssicherheit und Gesundhei
 _09/2015 – 12/2020 · Nationales Institut für Arbeitssicherheit und Gesundheitsschutz (CDC/NIOSH) · Remote_
 
 - Tätigkeit als Frontend-Entwickler für WordPress-CMS-Plattformen der Regierung unter Einhaltung der WCAG/Section 508
-- Entwicklung von Funktionen in Laravel und Django, wodurch die Nutzerinteraktion laut Adobe Analytics um 25 % gesteigert wurde
+- Entwicklung von Funktionen in Laravel und Django, wodurch die Nutzerinteraktion laut Adobe Analytics um 25% gesteigert wurde
 
 ### Frontend-Entwickler/Webadministrator am [Center for Economic Analysis and Development](https://www.nku.edu/cob/centers/cead), Northern Kentucky University
 
@@ -60,7 +60,7 @@ _05/2012 – 09/2015 · Highland Heights, KY (Großraum Cincinnati)_
 
 _09/2011 – 12/2011 · Cincinnati, OH · ca. 30 Stunden/Woche neben dem Abschlussstudium_
 
-- Ersatz eines veralteten Systems zur chirurgischen Sicherheit durch eine neue webbasierte Plattform, wodurch die Datenzugänglichkeit um 20 % gesteigert wurde
+- Ersatz eines veralteten Systems zur chirurgischen Sicherheit durch eine neue webbasierte Plattform, wodurch die Datenzugänglichkeit um 20% gesteigert wurde
 - Erstellung eines UI-Prototyps und Entwicklung eines wiederverwendbaren CSS-Frameworks für schnellere modulare Aktualisierungen
 
 ---
