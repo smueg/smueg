@@ -6,7 +6,7 @@ Washington DC–Baltimore Area · [Email](mailto:muegels@protonmail.com?subject=
 
 <br>
 
-[![PDF Résumé](https://img.shields.io/badge/View_Résumé-PDF-FA0F00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTE0IDJINmMtMS4xIDAtMS45OS45LTEuOTkgMkw0IDIwYzAgMS4xLjg5IDIgMS45OSAySDE4YzEuMSAwIDItLjkgMi0yVjhsLTYtNnptMiAxNkg4di0yaDh2MnptMC00SDh2LTJoOHYyem0tMy01VjMuNUwxOC41IDlIMTN6Ii8+PC9zdmc+&logoColor=white)](SM_Résumé.pdf) &nbsp;&nbsp;[![Auf Deutsch lesen](https://img.shields.io/badge/Auf_Deutsch-Lebenslauf-DD0000?style=for-the-badge&labelColor=000000&logo=markdown&logoColor=white)](../de-DE/docs/SM_Résumé_de-DE.md)
+[![PDF Résumé](https://img.shields.io/badge/View_Résumé-PDF-FA0F00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTE0IDJINmMtMS4xIDAtMS45OS45LTEuOTkgMkw0IDIwYzAgMS4xLjg5IDIgMS45OSAySDE4YzEuMSAwIDItLjkgMi0yVjhsLTYtNnptMiAxNkg4di0yaDh2MnptMC00SDh2LTJoOHYyem0tMy01VjMuNUwxOC41IDlIMTN6Ii8+PC9zdmc+&logoColor=white)](SM_Résumé_en-US.pdf) &nbsp;&nbsp;[![Auf Deutsch lesen](https://img.shields.io/badge/Auf_Deutsch-Lebenslauf-DD0000?style=for-the-badge&labelColor=000000&logo=markdown&logoColor=white)](../de-DE/docs/SM_Résumé_de-DE.md)
 
 ---
 
@@ -58,7 +58,7 @@ _5/2012 – 9/2015 · Highland Heights, KY (Cincinnati Metro Area)_
 
 ### Biomedical Informatics Intern (Perioperative Surgical Safety) at [Cincinnati Children's Hospital Medical Center](https://www.cincinnatichildrens.org)
 
-_9/2011 – 12/2011 · Cincinnati, OH · ~30 hrs/week alongside final coursework_
+_9/2011 – 12/2011 · Cincinnati, OH · alongside final coursework_
 
 - Replaced a legacy surgical safety system with a new web-based platform, increasing data accessibility 20%
 - Prototyped UI and built a reusable CSS framework for faster modular updates
