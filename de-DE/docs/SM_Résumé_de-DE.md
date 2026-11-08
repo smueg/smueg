@@ -6,7 +6,7 @@ Großraum Washington, D.C./Baltimore · [E-Mail](mailto:muegels@protonmail.com?s
 
 <br>
 
-[![PDF-Lebenslauf](https://img.shields.io/badge/Lebenslauf_ansehen-PDF-FA0F00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTE0IDJINmMtMS4xIDAtMS45OS45LTEuOTkgMkw0IDIwYzAgMS4xLjg5IDIgMS45OSAySDE4YzEuMSAwIDItLjkgMi0yVjhsLTYtNnptMiAxNkg4di0yaDh2MnptMC00SDh2LTJoOHYyem0tMy01VjMuNUwxOC41IDlIMTN6Ii8+PC9zdmc+&logoColor=white)](SM_Résumé_de-DE.pdf) &nbsp;&nbsp;[![](https://img.shields.io/badge/In_English-Résumé-0A3161?style=for-the-badge&labelColor=B31942&logo=markdown&logoColor=white)](../../en-US/docs/SM_Résumé_en-US.md)
+[![PDF-Lebenslauf](https://img.shields.io/badge/Lebenslauf_ansehen-PDF-FA0F00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTE0IDJINmMtMS4xIDAtMS45OS45LTEuOTkgMkw0IDIwYzAgMS4xLjg5IDIgMS45OSAySDE4YzEuMSAwIDItLjkgMi0yVjhsLTYtNnptMiAxNkg4di0yaDh2MnptMC00SDh2LTJoOHYyem0tMy01VjMuNUwxOC41IDlIMTN6Ii8+PC9zdmc+&logoColor=white)](SM_Résumé_de-DE.pdf) &nbsp;&nbsp;[![](https://img.shields.io/badge/In_English-Résumé-0A3161?style=for-the-badge&labelColor=B31942&logo=markdown&logoColor=white)](../../docs/SM_Résumé_en-US.md)
 
 ---
 
@@ -36,7 +36,7 @@ Full-Stack-Entwickler mit DevOps-Schwerpunkt, fundierten Kenntnissen in der Linu
 _01/2021 – 02/2026 · National Institute for Occupational Safety and Health (CDC/NIOSH) · Remote_
 
 - Entwicklung des Angular-Frontends bei der Migration einer ASP-Altanwendung auf C#, mit Anbindung an ASP.NET Web API und SQL-Server
-- Automatisierung von Bereitstellung, Datenmigration und Serverwartung, wodurch der manuelle Aufwand um 15 % sank
+- Automatisierung von Bereitstellung, Datenmigration und Serverwartung. Der manuelle Aufwand sank dadurch um 15 %
 - Betreuung der DevOps-Pipeline (Docker, Kubernetes, Bash) und Weiterentwicklung der CI/CD-Prozesse mit Jenkins und TFS/Azure DevOps Server, einschließlich Fortify-Scans
 - Koordination agiler Sprints und Backlogs in Jira sowie teamübergreifende Abstimmung der Entwicklungsprioritäten
 - Ablösung isolierter Arbeitsweisen durch plattformübergreifende Skripting-Standards mit Dependency Injection sowie Vereinheitlichung der CI/CD-Workflows über alle Teams hinweg
@@ -46,7 +46,7 @@ _01/2021 – 02/2026 · National Institute for Occupational Safety and Health (C
 _09/2015 – 12/2020 · National Institute for Occupational Safety and Health (CDC/NIOSH) · Remote_
 
 - Front-End-Entwicklung für behördliche WordPress-CMS-Plattformen unter Einhaltung von WCAG und Section 508
-- Entwicklung von Funktionen in Laravel und Django, wodurch die Nutzerinteraktion um 25 % stieg (gemessen mit Adobe Analytics)
+- Entwicklung von Funktionen in Laravel und Django. Die Nutzerinteraktion stieg um 25 % (gemessen mit Adobe Analytics)
 
 ### Front-End-Entwickler/Web-Administrator am [Center for Economic Analysis and Development](https://www.nku.edu/cob/centers/cead), Northern Kentucky University
 
@@ -60,7 +60,7 @@ _05/2012 – 09/2015 · Highland Heights, KY (Großraum Cincinnati)_
 
 _09/2011 – 12/2011 · Cincinnati, OH · parallel zum letzten Studiensemester_
 
-- Ablösung eines veralteten Systems zur perioperativen Patientensicherheit durch eine neue webbasierte Plattform, wodurch die Datenverfügbarkeit um 20 % stieg
+- Ablösung eines veralteten Systems zur perioperativen Patientensicherheit durch eine neue webbasierte Plattform. Die Datenverfügbarkeit stieg um 20 %
 - Entwurf von UI-Prototypen und Entwicklung eines wiederverwendbaren CSS-Frameworks für schnellere, modulare Aktualisierungen
 
 ---
@@ -89,7 +89,7 @@ _Highland Heights, KY (Großraum Cincinnati)_
 
 _Highland Heights, KY (Großraum Cincinnati)_
 
-- Fundierte Kenntnisse in internationalen Beziehungen, Wirtschaft und interkultureller Kommunikation
+- Solide Kenntnisse in internationalen Beziehungen, Wirtschaft und interkultureller Kommunikation
 - Sichere Beherrschung einer Fremdsprache, die den globalen Blick und die internationale Zusammenarbeit stärkte
 
 ---
