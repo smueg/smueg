@@ -10,9 +10,10 @@ I have 10 years of building accessible, high-traffic web applications, with the 
 
 <br>
 
-[![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:muegels@protonmail.com?subject=Re:%20Your%20GitHub%20Profile%20%5Bsmueg%5D) &nbsp;&nbsp;[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/smuegel)
+<!-- Badge texts are sized so the Résumé badge (~371px) spans the Email + LinkedIn pair (~361px + gap). -->
+[![Email](https://img.shields.io/badge/Email-Say_Hello-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=1F1F2E)](mailto:muegels@protonmail.com?subject=Re:%20Your%20GitHub%20Profile%20%5Bsmueg%5D)&nbsp;&nbsp;[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white&labelColor=1F1F2E)](https://linkedin.com/in/smuegel)
 
-[![View Résumé](https://img.shields.io/badge/View-Résumé-2EA44F?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/smueg/smueg/blob/main/en-US/docs/SM_Résumé_en-US.md)
+[![View Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-Experience,_Skills_and_Education-2EA44F?style=for-the-badge&logo=markdown&logoColor=white&labelColor=1F1F2E)](https://github.com/smueg/smueg/blob/main/en-US/docs/SM_Résumé_en-US.md)
 
 </div>
 
