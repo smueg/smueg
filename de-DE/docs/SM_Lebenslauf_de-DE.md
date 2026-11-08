@@ -6,7 +6,7 @@ Großraum Washington, D.C./Baltimore · [E-Mail](mailto:muegels@protonmail.com?s
 
 <br>
 
-[![PDF-Lebenslauf](https://img.shields.io/badge/Lebenslauf_ansehen-PDF-FA0F00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTE0IDJINmMtMS4xIDAtMS45OS45LTEuOTkgMkw0IDIwYzAgMS4xLjg5IDIgMS45OSAySDE4YzEuMSAwIDItLjkgMi0yVjhsLTYtNnptMiAxNkg4di0yaDh2MnptMC00SDh2LTJoOHYyem0tMy01VjMuNUwxOC41IDlIMTN6Ii8+PC9zdmc+&logoColor=white)](SM_Résumé_de-DE.pdf) &nbsp;&nbsp;[![](https://img.shields.io/badge/In_English-Résumé-0A3161?style=for-the-badge&labelColor=B31942&logo=markdown&logoColor=white)](../../docs/SM_Résumé_en-US.md)
+[![PDF-Lebenslauf](https://img.shields.io/badge/Lebenslauf_ansehen-PDF-FA0F00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTE0IDJINmMtMS4xIDAtMS45OS45LTEuOTkgMkw0IDIwYzAgMS4xLjg5IDIgMS45OSAySDE4YzEuMSAwIDItLjkgMi0yVjhsLTYtNnptMiAxNkg4di0yaDh2MnptMC00SDh2LTJoOHYyem0tMy01VjMuNUwxOC41IDlIMTN6Ii8+PC9zdmc+&logoColor=white)](SM_Lebenslauf_de-DE.pdf) &nbsp;&nbsp;[![](https://img.shields.io/badge/In_English-Résumé-0A3161?style=for-the-badge&labelColor=B31942&logo=markdown&logoColor=white)](../../en-US/docs/SM_Résumé_en-US.md)
 
 ---
 
