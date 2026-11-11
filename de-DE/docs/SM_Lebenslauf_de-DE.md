@@ -1,4 +1,4 @@
-# STÉFFEN MÜGEL
+# STEVEN MUEGEL
 
 Großraum Washington, D.C./Baltimore · [E-Mail](mailto:muegels@protonmail.com?subject=Re:%20Your%20GitHub%20R%C3%A9sum%C3%A9) · [GitHub](https://github.com/smueg) · [LinkedIn](https://linkedin.com/in/smuegel)
 
